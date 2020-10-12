@@ -2,4 +2,4 @@
 
 Say Hello To Discord Music bot !
 
-Prefix is !
+Prefix is ;
